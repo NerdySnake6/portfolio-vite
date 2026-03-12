@@ -12,18 +12,25 @@ npm install
 
 # 3. Запустить в режиме разработки
 npm run dev
-Сборка для продакшена
+```
+
+## Сборка для продакшена
+
+```bash
 npm run build
-Готовый сайт будет в папке dist/
+```
 
-Технологии
-Vite
+Готовый сайт будет в папке `dist/`
 
-Bootstrap 5
+## Технологии
 
-SCSS
+- [Vite](https://vitejs.dev/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- [SCSS](https://sass-lang.com/)
 
-Структура проекта
+## Структура проекта
+
+```
 portfolio-vite/
 ├── index.html
 ├── package.json
@@ -32,9 +39,13 @@ portfolio-vite/
 │   └── scss/
 │       └── custom.scss
 └── public/
+```
 
-Команды
-Команда	Описание
-npm run dev	Запуск dev-сервера
-npm run build	Сборка проекта
-npm run preview	Предпросмотр собранного проекта
+## Команды
+
+| Команда | Описание |
+|---------|----------|
+| `npm run dev` | Запуск dev-сервера |
+| `npm run build` | Сборка проекта |
+| `npm run preview` | Предпросмотр собранного проекта |
+```
