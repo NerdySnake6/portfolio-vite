@@ -48,4 +48,3 @@ portfolio-vite/
 | `npm run dev` | Запуск dev-сервера |
 | `npm run build` | Сборка проекта |
 | `npm run preview` | Предпросмотр собранного проекта |
-```
